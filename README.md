@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Hemant Vishwakarma, a 4th-year Computer Science engineering student <br>passionate about coding and technology. I'm proficient in Java, JavaScript, and  MERN stack.<br> I'm always eager to explore new technologies and programming languages. <<br>Looking forward to contributing to innovative projects and making an impact wherever I work<br>Thankyou.<br>
+Hi, I'm Hemant Vishwakarma, a Software Engineer passionate about building applications for a better tomorrow. Currently working as a Java Backend Developer with expertise in Microservices and AWS. I’m eager to contribute to innovative projects and create impactful solutions
 
 
 ## 🌐 Socials:
